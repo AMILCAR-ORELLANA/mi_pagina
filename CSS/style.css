@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body{
+    font-family:"Cormorant Garamond", serif;
+}
+/*.anime_navbar{
+    background-color: rgb(255, 255, 255, 0.7) !important;
+}
+.anime_navbar div, .anime_navbar ul{
+   background-color: transparent !important;
+}
+*/
+
+.anime_cont_sec_1{
+    padding: 10%;
+}
+.anime_cont_sec_1_link{
+    padding: 5%;
+
+}
+.anime_cont_sec_1_link a{
+    width: 200px;
+}
+.anime_cont_sec_1_link hr{
+    border-top: solid rgb(1, 1, 1,0.3);
+}
+.anime_cont_footer{
+    background-color:rgb(1, 1, 1,0.7);
+    padding: 10%;
+    color:aliceblue;
+    margin-top: 100px;
+}
+.anime_cont_footer{
+    color: #ffffff;
+    text-decoration: none;
+    display: block;
+}
+.anime_cont_img_footer{
+    padding: 5%;
+}
